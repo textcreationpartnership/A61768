@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful prophecies and predictions taken from the apparition of the late dreadful comet, the last wonderful ecclips, and the great and signal conjunction of Jupiter and Saturn in the fiery trigon, that will happen on the twenty-third of October next ... as likewise a prophesy of Mr. Lillies, and one of Bishop-Ushers found some time after their death.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61768</idno>
+            <idno type="STC">Wing S5872</idno>
+            <idno type="STC">ESTC R32733</idno>
+            <idno type="EEBO-CITATION">12752455</idno>
+            <idno type="OCLC">ocm 12752455</idno>
+            <idno type="VID">93320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful prophecies and predictions taken from the apparition of the late dreadful comet, the last wonderful ecclips, and the great and signal conjunction of Jupiter and Saturn in the fiery trigon, that will happen on the twenty-third of October next ... as likewise a prophesy of Mr. Lillies, and one of Bishop-Ushers found some time after their death.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies.</term>
+               <term>Great Britain --  History --  Prophecies.</term>
+               <term>Europe --  History --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93320:1"/>
+            <pb facs="tcp:93320:1"/>
+            <head>Strange and Wonderful <hi>Prophecies and Predictions</hi> Taken from the APPARITION Of the late Dreadful COMET The laſt Wonderful ECCLIPS, And the great and ſignal Conjunction of <hi>Jupiter</hi> and <hi>Saturn</hi> in the <hi>Fiery Trigon,</hi> That will happen on the twenty-third of <hi>October</hi> next, ſignifying the utter downfall of the Hierarchy of <hi>Rome,</hi> and other moſt wonder<g ref="char:EOLhyphen"/>ful and unheard of Mutations, which ſhall happen in <hi>Europe</hi> within few years.</head>
+            <p>Taken from the joynt conſent of the moſt learned Aſtrologers and other famous Men, skill'd in the Aſtral Sciences.</p>
+            <p>As likewiſe a Propheſy of Mr. <hi>Lillies,</hi> and one of Biſhop-<hi>
+                  <g ref="char:V">Ʋ</g>ſhers</hi> found ſome time after their Death.</p>
+            <p>HEaven is God's Book which he lays open before Mortals, but wiſe men can only read it; Fools admire it, and Fops deride it. But 'tis moſt certain, that God ſhews not his Signs in the Heavens in vain, and that Comets, Eclipſes and remark<g ref="char:EOLhyphen"/>able Conjunctions of the Luminaries and other Stars ſignify ſomething to Mankind, ſince experience, the Miſtreſs, even of Fools, teaches us that our Bodies, and the Bodies of all Animals and Vegitables, are ſub<g ref="char:EOLhyphen"/>ject both to the benign and malevolent influences of the Heavens; we ſhall therefore let the ignorant and incredulous alone, and ſpeak only to thoſe, who with more judgment inquire into theſe Prodigies, which we may ſo call, though they are natural, becauſe portentous, and are remarkable Signs of things to come.</p>
+            <p>We ſhall not in this narrow compaſs go about to declare our judg<g ref="char:EOLhyphen"/>ment of the matter of Comets, or how produced: the opinions of the Ancients about this matter are exploded, and ſome later have in<g ref="char:EOLhyphen"/>geniouſly enough judged them to be cauſed by the Actions of Spirits,
+<pb n="2" facs="tcp:93320:2" rendition="simple:additions"/>and ſome other learned Vertuoſi have thought them (and perhaps not amiſs) by reaſon of the great height of moſt of them, that they are the Conflagrations of ſo many ſeveral Worlds. But as to this, we ſhall not diſcourſe any farther, but procceed to let you underſtand, what the learned have predicted from thoſe ſignal Apparitions, and that great Conjunction which will be celebrated in <hi>October</hi> next.</p>
+            <p>As to the firſt, the Comet ſeen in <hi>England,</hi> as well as in moſt parts of <hi>Europe,</hi> and alſo in <hi>America,</hi> in <hi>December 1680.</hi> According to our moſt learned <hi>Engliſh Merlin,</hi> it ſignifies great and unuſual Tempeſts by Sea and Land, blaſts of wind, ſtrange Treacheries, Death of Cattel, Dearth of Grain, Plague, and Famine, with great Inundations of wa<g ref="char:EOLhyphen"/>ters. Which has been verified in the great Deluge in <hi>Flanders</hi> and <hi>Holland,</hi> and all the Low-Countries, to their unſpeakable Damage, and the periſhing of many thouſand Souls, beſides the loſs of Cattel, and Land hardly ever to be regained. As this great and unuſual Flood might be the effects of this Comet, ſo alſo it may have its ſignification and may predict Troubles, Wars, and great Devaſtations and Depre<g ref="char:EOLhyphen"/>dations to come ſhortly on thoſe Countries, as it hath been obſerved in the like Caſes. Therefore let <hi>Flanders</hi> this year and the next, look to it ſelf, and <hi>Holland</hi> alſo, leſt they become a Prey to the French Mo<g ref="char:EOLhyphen"/>narch; it is much to be feared. Beſides this Comet, we have from very faithful hands, that three Suns have been ſeen at once ſeveral times, the laſt of which was in <hi>April</hi> 1681. As alſo ſeveral other ſtrange Ap<g ref="char:EOLhyphen"/>paritions in the Ayre, of Armies Fighting; Ships combating and firing one at another, all which are not ſent in vain, and do predict ſome<g ref="char:EOLhyphen"/>thing more than we are free to ſpeak of at this time, but proceed in our diſcourſe of the Comet. <hi>Fromundus</hi> ſaith, <hi>Cometa non eſt Phyſica cauſa calamitatum ſed ſignum potius ad placitum Dei.</hi> That a Comet is not a Phyſical cauſe of Calamities but rather a ſign thereof, at the plea<g ref="char:EOLhyphen"/>ſure of God. So we may well believe that this remarkable Comet is a ſign of many Changes to come, and we may thence predict or fore<g ref="char:EOLhyphen"/>tell great changes in many places, as Scarcity, Plague, Famine, Wars, and Cruelties exerciſed by ſome potent Prince.</p>
+            <p>
+               <hi>Lilly</hi> in his <hi>Anglicus</hi> 1655. hath theſe prophetical expreſſions.</p>
+            <q>
+               <l>
+                  <hi>In the year eighty three,</hi>
+               </l>
+               <l>
+                  <hi>Great Changes there will be.</hi>
+               </l>
+            </q>
+            <p>And I have heard of another Propheſy, concerning that year, found in the Papers of a learned Man.</p>
+            <q>
+               <l>
+                  <hi>Who e're ſhall live to ninety three,</hi>
+               </l>
+               <l>
+                  <hi>Three Armies ſhall in</hi> England <hi>ſee,</hi>
+               </l>
+               <l>
+                  <hi>Three Princes ſhall for Empire ſtrive;</hi>
+               </l>
+               <l>
+                  <hi>Two ſhall be ſlain the third ſurvive.</hi>
+               </l>
+               <l>
+                  <hi>And when the Crown's plac'd on his Head,</hi>
+               </l>
+               <l>
+                  <hi>Religion ſhall be eſtabliſhed.</hi>
+               </l>
+               <l>
+                  <hi>The South then to the North ſhall ſay,</hi>
+               </l>
+               <l>
+                  <hi>This is</hi> Englands <hi>happy day.</hi>
+               </l>
+            </q>
+            <p>Time will reveal all things, but it behoves all men not to ſlight ſuch warnings from God, nor laugh at impending Judgments, but to amend their Lives. Hear what another learned man in the Science of Aſtro<g ref="char:EOLhyphen"/>logy tells you, in his Aſtrological Obſervations for this year, That the motion of a Comet from one place to another, manifeſts an hoſtile mo<g ref="char:EOLhyphen"/>tion of an Enemy, from one Region to another. God preſerve us from an Invaſion. We may Juſtly fear that this Comet portends more
+<pb n="3" facs="tcp:93320:2"/>wars in <hi>Europe.</hi> I wiſh the <hi>Turk</hi> breaks not the League with the Em<g ref="char:EOLhyphen"/>peror, or invades not ſome other part of Chriſtendom within theſe few years. He goes on and ſays further, the dreadful effects of this Comet will be the ſlight of many good people from their Habitations, the Ba<g ref="char:EOLhyphen"/>niſhment of ſeveral perſons into other Countrys, unuſual Tempeſts, dark weather, piracies, and Shipwracks with many other Calamities, deſtruct<g ref="char:EOLhyphen"/>ion of Fruits, overflowing of waters, uncomfortable Harveſts, Scarcity of all ſort of Grain, many infirmities hapning to Cattel, as Oxen, Sheep, Hogs, <hi>&amp;c.</hi> with many Melancholly Diſeaſes frequent among the People.</p>
+            <p>But as this Comet was not in all reſpects as other Comets have ap<g ref="char:EOLhyphen"/>peared, being more remarkable in its progreſs, and buſhy Tail or Stream meaſuring to many Degrees in the Heavens; Some learned Philoſo<g ref="char:EOLhyphen"/>phers have predicted from it, ſome unuſual mutation to be made in Re<g ref="char:EOLhyphen"/>ligion, to the great detriment of proud Perſecutors, but whether <hi>Italy</hi> or ſome other part of <hi>Europe</hi> be poynted at, time only will reveal. We ſhall now proceed to the Lunar Ecclips</p>
+            <p>This Ecclips of the Moon hapned on the 11th of <hi>February</hi> laſt, and was plainly ſeen of us. Tho Ecclipſes of either Luminar, are Natural, the one being cauſed by the interpoſition of the Moon betwixt us, and the Sun, which Shadows its light by its opacous body, the other, being cauſed by the interpoſition of the Earth between the Moon and the Sun, whoſe ſhadow cauſes the Lunar Ecclips; yet I ſay theſe Ecclipſes by all the Ancients have been obſerved to have produced their very great Influences and Effects upon the people of the World. This <hi>Diliquium</hi> or total defect of the Moon, is celebrated in the Mid-heaven in three Degees, fifty three minutes of the <hi>Celeſtial Virgin,</hi> and portends ſome alteration in Religion, and that many careleſs Chriſtians run into ſtrange and unheard of principles deſtructive to our Faith. It alſo predicts great ſickneſſes ariſing from cold and drineſs, eſpecially unto Princes, and great perſons. We may expect to hear this Summer of the Death of ſome great and remarkable Prince or Potentate. This Ecclips, hapning alſo in a Northern Aſteriſm, portends ſudden Earthquakes, according to <hi>Ptolemy. Mercury</hi> is Ruler of this Ecclips, which ſignifieth great Change and Mutability in the minds of Men. Treachery, Shamplots, Subtle Contrivances, Craft and Cuning among Magiſtrates: promotes Innovations in Religion, and in Laws and Cuſt<g ref="char:EOLhyphen"/>oms, Cauſes high winds and a troubled Air. The effects of this Ecclips will appear among all people, and thoſe Countrys ſubject to <hi>Virgo, Piſces, Sagitary,</hi> and <hi>Gemini,</hi> and that when the <hi>Sun</hi> and <hi>Mars</hi> come into thoſe poynts, then will the effects be moſt powerful. We may expect a dry and unwholſom Spring, full of noxious and malignant fumes, which may give great detrement to the Fruits of the Earth. Thus much for this remarkable <hi>Lunar</hi> Ecclips, we will now proceed to the great Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter</hi> which is indeed very ſignal.</p>
+            <p>This notable Conjunction of which we are now about to ſpeak, is between <hi>Saturn</hi> and <hi>Jupiter,</hi> in the Regal Sign <hi>Leo,</hi> which predicts ve<g ref="char:EOLhyphen"/>ry notable things, being alſo ſeconded with a Conjunction of <hi>Mars,</hi> both with <hi>Saturn</hi> and <hi>Jupiter</hi> in the ſame Kingly Sign; the effects of which will laſt many years, and, as a knowing Aſtrologer ſays, will much alter the Affairs of <hi>Europe,</hi> and give the form of things another Face, from what it had before. Things that have long been a hatching will now be brought to Light. God preſerve <hi>England</hi> from another new
+<pb n="4" facs="tcp:93320:3" rendition="simple:additions"/>contrived Popiſh Plot, and private Enemies under the mask of Friend<g ref="char:EOLhyphen"/>ſhip. <hi>Mars junctus Saturno ſtruet fraudes multas &amp; deceptiones. Mars</hi> being joyned with <hi>Saturn,</hi> brings forth many frauds and Sham-plots, Robbing by Land, Piracies by Sea, great unfaithfulneſs of great ones one to another; and Teeacheries and Villanies of all kinds. God pre<g ref="char:EOLhyphen"/>ſerve this Nation from Peſtilence, which ſeems to be threatned by the Malevolent influences of <hi>Mars</hi> and <hi>Saturn:</hi> alſo great Feavors and other Epidemical Diſeaſes, towards the latter end of this year, and next Summer. <hi>Multa cadunt inter labia &amp; Calicam:</hi> many mens expectati<g ref="char:EOLhyphen"/>ons ſhall be fruſtrated; there is a Square of <hi>Jupiter</hi> and <hi>Mars</hi> that will make a great noiſe and will very ſhrewdly ſhake if not break to pieces the Image of <hi>Nebuchadnezar, Verbum Sapienti.</hi>
+            </p>
+            <p>This Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> and <hi>Mars</hi> in <hi>Leo,</hi> and all of them in Square to <hi>Venus</hi> in <hi>Scorpio,</hi> and the <hi>Moon</hi> alſo diſpoſed of by <hi>Mercurie-</hi> and yet in Square to him, is one of the worſt revolutional Fi<g ref="char:EOLhyphen"/>gures that may be ſeen. Theſe Conjunctions hapning in <hi>Leo,</hi> near the Tro<g ref="char:EOLhyphen"/>pick of <hi>Cancer,</hi> will pour their effects on thoſe Northern Regions to pur<g ref="char:EOLhyphen"/>poſe, becauſe their diarnal Ark or time above the Earth is near 15 hours, ſo that during that time, the power of their rayes have great influ<g ref="char:EOLhyphen"/>ence, to alter the Principles of the Ayr, and ſo by Conſequence of all o<g ref="char:EOLhyphen"/>ther things living in it: we ſay, that this will be a cauſe of many pertur<g ref="char:EOLhyphen"/>bations; mens minds will be ſtirred up to fiery and furious Actions, to War, Battel, Murther, Treachery, Rebellion, and the like. In ſome of the Northern parts of <hi>Europe,</hi> becauſe they have all North latitude in <hi>Leo. Saturn</hi> in a fixed ſigne Signifies Mortality, and Scarcity of Fruits of the Earth: and indeed a great Mortality is to be feared, for <hi>Saturn</hi> and <hi>Mars</hi> are in the 4th and both Dignities in the 8th Houſe, which is the Houſe of Death. But God may hear the prayers of the Faithful, theſe things invite men to Repentance, and to Supplicate Almighty God to divert his impending Judgments.</p>
+            <p>By it <hi>England, Ireland,</hi> part of <hi>France,</hi> all <hi>Scotland,</hi> and <hi>Holland, Polonia, Sweeden</hi> and <hi>Denmark,</hi> ſeem to be much Concerned: many inundations, tempeſts, Shipwracks, Peſtilence, Famine, and un<g ref="char:EOLhyphen"/>uſual diſeaſes will ('tis very likely) be manifeſted in thoſe Countrys. This famous Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> falls in about 20 degrees of the Regal ſign <hi>Leo,</hi> on the 23d of <hi>October. 5 H. Poſt M.</hi> The fiery <hi>Trigon,</hi> or the Conjunctional returns into this <hi>Trigon,</hi> have always been attend<g ref="char:EOLhyphen"/>ed with very notable and Memorable Changes both of Church and ſtate, and very great Actions and Alterations in Kingdoms and Countrys. This being the 7th Revolution ſince the begining of the world.</p>
+            <p>The famous <hi>Merlinus Anglicus</hi> tells you that the firſt Revolution of this <hi>Trigon</hi> after the Worlds Creation, fell in the days of <hi>Enoch,</hi> the ſecond in <hi>Noah</hi>'s time, when the univerſal Flood drowned the World, the third in the time of <hi>Moſes</hi> when the Children of <hi>Iſrael</hi> were delivered from the <hi>E<g ref="char:EOLhyphen"/>gyptian</hi> Yoak, the fourth was about the ſetting up of the Monarchy of the <hi>Medes</hi> and <hi>Perſians,</hi> the fifth fell about the time that our bleſſed Saviour lived here upon Earth, the ſixth was when <hi>Charles</hi> the Great tranſlated the Weſtern Empire to the <hi>Germans.</hi> And now this is the ſeventh which has a ſin<g ref="char:EOLhyphen"/>gular Myſtery of Sabbatiſm, and promiſes great things more than ordinary to the World. Its ef<g ref="char:EOLhyphen"/>fects will laſt ſeveral years, and will be about the year 1801 e're this triplicity has its full period: about which time we may expect the utter overthrow of the Hirarchy of <hi>Rome,</hi> if not be<g ref="char:EOLhyphen"/>fore; and that about that time we may expect a Total Cataſtrophy of the world, and in the mean time we may look fot great and Marvellous alterations and Changes in the Conſtitutions of Em<g ref="char:EOLhyphen"/>pires, and ſtrange Revolutions of Monarchies and ſtates. But <hi>Leo</hi> being a Regalſigne, and in trine to <hi>Aries, England's</hi> aſcendent, what ever Changes we may expect at home, Monarchy will be ad<g ref="char:EOLhyphen"/>vanced and we need fear no danger of a Common-wealth, for no ſuch thing is threatned from its Influence, but rather that ſome petty ſtates, ſhould chooſe them ſome warlike prince, and become Monarchical. Who ever lives to 88 ſhall ſee ſuch Revolutions as few expect but we ſhall at this time Conclude with this Prophetical <hi>Enigma.</hi> When the Eagle builds his Neſt on the top of a Fir-tree, let the white Raven leave Croaking, for his end is neer: the Frog and Reremouſe ſhal<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ter into a League, but ſhall be both deſtroyed by the Sparow-hawke. Then ſhall a man ariſe with the Sun on his head, whoſe rays ſhall Illuminate the Northern parts of <hi>Europe,</hi> then Peace and Plenty ſhall flow thorow all his Dominions, which ſhall Extend from the North to the South haveing di<g ref="char:EOLhyphen"/>vers Princes his Tributaries.</p>
+            <q>
+               <l>
+                  <hi>Theſe things ſhall all fulfilled be</hi>
+               </l>
+               <l>
+                  <hi>Before Seven hundred Eighty three.</hi>
+               </l>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. Smith.</hi> 1682.</p>
+            <pb facs="tcp:93320:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
